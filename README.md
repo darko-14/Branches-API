@@ -40,7 +40,6 @@ src/
    ```sh
    npm install
    ```
-3. Copy `.env.example` to `.env` and set your environment variables (e.g., JWT_SECRET).
 
 ### Running the Server
 ```sh
